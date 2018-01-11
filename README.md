@@ -1,3 +1,6 @@
+# NWEA assignment in NodeJS
+After writing this assignment in Pyton, I thought it would be cool to try it in NodeJS, well that was even simpler.
+
 # install the node modules
 after you downloaded the zip file and unzipped it or you did the 'git clone', simply run:
 * $ _npm install_ 
